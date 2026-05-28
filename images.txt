@@ -7,3 +7,4 @@ xhofe/alist:latest
 
 
 diygod/rsshub:chromium-bundled
+redis:alpine
