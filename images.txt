@@ -10,3 +10,4 @@ diygod/rsshub:chromium-bundled
 redis:alpine
 easytier/easytier:latest
 lscr.io/linuxserver/emby:latest
+emby/embyserver_arm32v7
