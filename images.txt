@@ -12,3 +12,4 @@ easytier/easytier:latest
 lscr.io/linuxserver/emby:latest
 emby/embyserver_arm32v7
 pawelmalak/flame
+jellyfin/jellyfin
