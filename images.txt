@@ -13,4 +13,4 @@ lscr.io/linuxserver/emby:latest
 emby/embyserver_arm32v7
 pawelmalak/flame
 jellyfin/jellyfin
---platform=linux/arm/v7 soulteary/flare
+soulteary/flare:linux-armv7
